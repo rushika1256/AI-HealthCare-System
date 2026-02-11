@@ -105,26 +105,6 @@ The system continuously improves recommendations through interaction.
 
 ---
 
-## Sample Output
-
-```
-======= Diagnosis Report =======
-
-Input Symptoms: fever, headache, fatigue
-Predicted Disease: Fungal infection
-Probability: 99.77%
-
-Recommended Medications:
-- Fluconazole
-- Terbinafine
-- Clotrimazole
-
-Precautions:
-- Maintain hygiene
-- Keep affected area dry
-
-=================================
-```
 
 ---
 
@@ -133,7 +113,6 @@ Precautions:
 ```
 medicine-recommending-system/
 │
-├── diagnosis_system.py
 ├── model_A.ipynb
 ├── model_B.ipynb
 ├── model_combined.ipynb
