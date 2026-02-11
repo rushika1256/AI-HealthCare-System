@@ -1,4 +1,4 @@
-#Personalized Healthcare Management System using Reinforcement Learning
+# Personalized Healthcare Management System using Reinforcement Learning
 
 An AI-powered healthcare management system that predicts diseases from symptoms and recommends personalized treatments using Reinforcement Learning (PPO).
 
@@ -6,7 +6,7 @@ Built with Python, PyTorch and Stable-Baselines3.
 
 ---
 
-##Features
+## Features
 
 - Disease prediction from symptoms
 - Personalized medication recommendations
@@ -16,7 +16,7 @@ Built with Python, PyTorch and Stable-Baselines3.
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 - Python 3.8+
 - PyTorch
@@ -29,7 +29,7 @@ Built with Python, PyTorch and Stable-Baselines3.
 
 ---
 
-##Installation
+## Installation
 
 ### 1. Clone the Repository
 
@@ -53,7 +53,7 @@ nltk.download('punkt')
 
 ---
 
-##Required Dataset Files
+## Required Dataset Files
 
 Place the following dataset files in the root directory:
 
@@ -64,7 +64,7 @@ Place the following dataset files in the root directory:
 
 ---
 
-##Usage
+## Usage
 
 ```python
 from diagnosis_system import AdvancedDiagnosisSystem
@@ -82,7 +82,7 @@ system.process_input(symptoms)
 
 ---
 
-##How It Works
+## How It Works
 
 ### Disease Prediction
 A trained machine learning model analyzes symptoms and predicts the most probable disease.
@@ -105,7 +105,7 @@ The system continuously improves recommendations through interaction.
 
 ---
 
-##Sample Output
+## Sample Output
 
 ```
 ======= Diagnosis Report =======
@@ -128,7 +128,7 @@ Precautions:
 
 ---
 
-##Project Structure
+## Project Structure
 
 ```
 medicine-recommending-system/
@@ -144,7 +144,7 @@ medicine-recommending-system/
 
 ---
 
-##Future Improvements
+## Future Improvements
 
 - Electronic Health Record (EHR) integration
 - Real-time vital monitoring
