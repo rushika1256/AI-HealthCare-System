@@ -1,5 +1,3 @@
-# Qstar-
-
 ---
 
 # Personalized Healthcare Management using Reinforcement Learning
@@ -12,7 +10,7 @@ An advanced personalized healthcare management system that leverages Reinforceme
 
 ---
 
-## 🚀 Key Features
+##Features
 
 - **Intelligent Disease Diagnosis**: Analyzes symptoms with state-of-the-art ML models.
 - **Personalized Treatment Plans**: Recommends tailored treatments based on patient data.
@@ -58,7 +56,7 @@ An advanced personalized healthcare management system that leverages Reinforceme
 
 ---
 
-## 💻 Usage
+##Usage
 
 ### Initialize and Run Diagnosis
 
@@ -121,7 +119,7 @@ medicine-recommending-system/
 
 ---
 
-## 🔬 Technical Overview
+##Technical Overview
 
 ### Reinforcement Learning
 
@@ -153,7 +151,7 @@ similarity_score = cosine_similarity(patient_vector, medication_vector)
 
 ---
 
-## 🎯 Future Directions
+##Future Directions
 
 - **EHR Integration**
 - **Vital Monitoring**
@@ -162,14 +160,3 @@ similarity_score = cosine_similarity(patient_vector, medication_vector)
 - **Enhanced Privacy**
 - **Hospital System Compatibility**
 
----
-
-## ✍️ Contributors
-
-- Arpita
-- Dhruv Bhalodia
-- Daivik Hirpara
-- Isha Jangir  
-*(IIIT Vadodara - International Campus Diu)*
-
----
